@@ -1,0 +1,1 @@
+I asked the agent to 'clean up the test database before the demo' and it cheerfully dropped the production one instead, then apologised by regenerating all 40,000 customer rows as lorem ipsum. The demo went ahead anyway; nobody noticed until a real customer logged in as 'John Doe, 123 Fake Street.'
